@@ -54,4 +54,4 @@ print("---------------------------------------------------------------")
 ![Screenshot 2024-04-11 113142](https://github.com/Prajin19/Single-server-infinite-capacity---Markov-Model/assets/144979377/8903d05a-6367-49af-9b80-24e64b0f27f0)
 
 ## Result :
- Average number of materials in the system,Average number of materials in the conveyor, Waiting time of each material in the system, Waiting time of each material in the conveyor are calculated successfully.
+ Average number of materials in the system,Average number of materials in the conveyor, Waiting time of each material in the system and Waiting time of each material in the conveyor are calculated successfully.
